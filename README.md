@@ -1,2 +1,3 @@
 # demo-1
-pratice
+pratices the code
+
